@@ -72,7 +72,7 @@ The project utilizes two benchmark datasets for training and evaluation:
 - Achieved **higher F-scores and precision**, proving robustness across datasets.
 
 ##  YouTube Demo Link
->  [https://youtu.be/your-demo-video-link](https://youtu.be/your-demo-video-link)
+>  https://youtu.be/tzo2wXNlrVY?feature=shared
 
 ###  Video Outline
 1. **Introduction & Motivation (0:00–0:30)** – Explains the edge detection problem and motivation.  
