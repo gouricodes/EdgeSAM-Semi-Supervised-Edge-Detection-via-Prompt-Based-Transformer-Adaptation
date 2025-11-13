@@ -64,10 +64,7 @@ The project utilizes two benchmark datasets for training and evaluation:
 | OIS F-score | 0.743 | 0.764 | **0.795** |
 | Average Precision | 0.715 | 0.738 | **0.781** |
 
-###  Visual Results
-| Input Image | Base Paper Output | Proposed Model Output |
-|--------------|------------------|------------------------|
-| ![input](results/sample_input.jpg) | ![base](results/base_output.jpg) | ![ours](results/proposed_output.jpg) |
+
 
 ###  Observations
 - The proposed method produces **cleaner, sharper, and continuous edges**.  
